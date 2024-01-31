@@ -1,0 +1,77 @@
+### IntelliJ IDEA/Android Studio ###
+
+# - metadata
+.idea/*
+!.idea/*.iml
+!.idea/artifacts/
+!.idea/libraries/
+!.idea/modules.xml
+
+# IMPORTANT: If `.idea/misc.xml` isn't present when opening an IntelliJ project,
+#   IntelliJ will usually be unable to understand other `.idea/` directory 
+#   contents (if any). On the other hand, if `.idea/misc.xml` is tracked in 
+#   version control, but the SDK name (as configured in the 
+#   **Project Structure** dialog) isn't the same across all team members'
+#   IntelliJ installations, those differences will result in needless merge 
+#   conflicts for that file.
+!.idea/misc.xml
+
+# - temporary files
+/captures/
+
+# - build output
+/out/
+
+
+### Eclipse ###
+
+# - metadata
+/.settings/
+/.metadata/
+.project
+.classpath
+
+# - build output
+/bin/
+
+
+### Gradle ###
+
+# - temporary files
+/.gradle/
+
+# - local properties
+local.properties
+
+# - build output
+/build/
+
+
+### Maven ###
+
+# - developer information
+HELP.md
+
+# - build output
+/target/
+
+# - reduced dependencies
+dependency-reduced-pom.xml
+
+
+### Database ###
+
+# BE SURE TO EXCLUDE ANY LOCAL DATABASE DIRECTORY/FILES AND LOG FILES!
+
+
+### Floobits ###
+
+# - metadata
+.floo
+.flooignore
+
+
+### OS X ###
+
+# - metadata
+.DS_Store

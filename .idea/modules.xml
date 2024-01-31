@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab1.1/Lab1.1.iml" filepath="$PROJECT_DIR$/Lab1.1/Lab1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1.2/Lab1.2.iml" filepath="$PROJECT_DIR$/Lab1.2/Lab1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1.3/Lab1.3.iml" filepath="$PROJECT_DIR$/Lab1.3/Lab1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1.4/Lab1.4.iml" filepath="$PROJECT_DIR$/Lab1.4/Lab1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1.5/Lab1.5.iml" filepath="$PROJECT_DIR$/Lab1.5/Lab1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2.1/Lab2.1.iml" filepath="$PROJECT_DIR$/Lab2.1/Lab2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2.2/Lab2.2.iml" filepath="$PROJECT_DIR$/Lab2.2/Lab2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2.3/Lab2.3.iml" filepath="$PROJECT_DIR$/Lab2.3/Lab2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2.4/Lab2.4.iml" filepath="$PROJECT_DIR$/Lab2.4/Lab2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3.1/Lab3.1.iml" filepath="$PROJECT_DIR$/Lab3.1/Lab3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3.2_Queue/Lab3.2_Queue.iml" filepath="$PROJECT_DIR$/Lab3.2_Queue/Lab3.2_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3.2_Stack/Lab3.2_Stack.iml" filepath="$PROJECT_DIR$/Lab3.2_Stack/Lab3.2_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4.1/Lab4.1.iml" filepath="$PROJECT_DIR$/Lab4.1/Lab4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4.2/Lab4.2.iml" filepath="$PROJECT_DIR$/Lab4.2/Lab4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup/Warmup.iml" filepath="$PROJECT_DIR$/Warmup/Warmup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsa-workspace.iml" filepath="$PROJECT_DIR$/.idea/dsa-workspace.iml" />
+    </modules>
+  </component>
+</project>
